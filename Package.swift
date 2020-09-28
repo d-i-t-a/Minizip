@@ -10,7 +10,7 @@ let package = Package(
 	],
 	targets: [
 		.target(name: "Minizip",
-			path: "Minizip",
+			path: "Sources",
 			linkerSettings: [.linkedLibrary("z")]
 		)
 	]

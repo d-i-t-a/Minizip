@@ -98,7 +98,7 @@
 			isa = PBXGroup;
 			children = (
 				8687AEEA1C66F322005D9419 /* Minizip */,
-				8687AF2A1C66F4B3005D9419 /* Vendor */,
+				8687AF2A1C66F4B3005D9419 /* Sources */,
 				86EEC71F1C66F6890052000B /* Libraries */,
 				8687AEE91C66F322005D9419 /* Products */,
 			);
@@ -121,12 +121,12 @@
 			path = Minizip;
 			sourceTree = "<group>";
 		};
-		8687AF2A1C66F4B3005D9419 /* Vendor */ = {
+		8687AF2A1C66F4B3005D9419 /* Sources */ = {
 			isa = PBXGroup;
 			children = (
 				8687AF2B1C66F4B3005D9419 /* Minizip */,
 			);
-			path = Vendor;
+			path = Sources;
 			sourceTree = "<group>";
 		};
 		8687AF2B1C66F4B3005D9419 /* Minizip */ = {
