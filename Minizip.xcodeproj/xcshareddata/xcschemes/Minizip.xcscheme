@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0720"
+   LastUpgradeVersion = "1160"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "8687AF1E1C66F36A005D9419"
+               BlueprintIdentifier = "8687AEE71C66F322005D9419"
                BuildableName = "Minizip.framework"
-               BlueprintName = "Minizip-OSX"
+               BlueprintName = "Minizip"
                ReferencedContainer = "container:Minizip.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -29,8 +29,6 @@
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
       </Testables>
-      <AdditionalOptions>
-      </AdditionalOptions>
    </TestAction>
    <LaunchAction
       buildConfiguration = "Debug"
@@ -45,14 +43,12 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "8687AF1E1C66F36A005D9419"
+            BlueprintIdentifier = "8687AEE71C66F322005D9419"
             BuildableName = "Minizip.framework"
-            BlueprintName = "Minizip-OSX"
+            BlueprintName = "Minizip"
             ReferencedContainer = "container:Minizip.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
-      <AdditionalOptions>
-      </AdditionalOptions>
    </LaunchAction>
    <ProfileAction
       buildConfiguration = "Release"
@@ -63,9 +59,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "8687AF1E1C66F36A005D9419"
+            BlueprintIdentifier = "8687AEE71C66F322005D9419"
             BuildableName = "Minizip.framework"
-            BlueprintName = "Minizip-OSX"
+            BlueprintName = "Minizip"
             ReferencedContainer = "container:Minizip.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
