@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
 	s.name         = "Minizip"
-	s.version      = "1.4.2"
+	s.version      = "1.4.3"
 	s.license      = "MIT"
 	s.summary      = "Minizip"
 	s.homepage     = "http://d-i-t-a.github.io"
