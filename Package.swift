@@ -11,7 +11,7 @@ let package = Package(
 	targets: [
 		.target(name: "Minizip",
 			path: "Vendor",
-			linkerSettings: [.linkedLibrary("xml2")]
+			linkerSettings: [.linkedLibrary("xml2"), .linkedLibrary("z")]
 		)
 	]
 )
